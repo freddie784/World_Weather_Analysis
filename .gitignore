@@ -1,9 +1,14 @@
+#adding config.py file
+config.py
+API_practice.ipynb
+random_number.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
+# C extensionsqgit s
 *.so
 
 # Distribution / packaging
